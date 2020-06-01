@@ -1,0 +1,1 @@
+set DATABASE_URL="postgres://mzrdgduspbgunk:b676b0b49656b5dc0250561643021467b6c888609317180fdde2c5dd8acaa9c4@ec2-35-174-127-63.compute-1.amazonaws.com:5432/d128b3h64d9cli"
